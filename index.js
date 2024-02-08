@@ -39980,4 +39980,4 @@ const prescriptionRef = new Map([
     ]
 ]);
 
-export default prescriptionData;
+export default prescriptionRef;
