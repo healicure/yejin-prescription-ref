@@ -1,0 +1,14 @@
+# Dependencies / build
+node_modules/
+*.tgz
+
+# Licensed / proprietary source data (KIOM·koreantk·예진 payload) — NEVER commit to
+# this PUBLIC repo. Provided per-run into input/ by 예진; regenerable/re-providable.
+input/
+
+# Generated artifacts (regenerable via scripts/): records, merge, report, augment.
+output/
+
+# Internal working docs (spec / data request/answers) — not for the public repo.
+PROMPT-v2.md
+DATA-REQUEST.md
